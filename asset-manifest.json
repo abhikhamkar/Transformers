@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Transformers/static/css/main.bb0130d4.chunk.css",
+    "main.js": "/Transformers/static/js/main.2cfd0cb7.chunk.js",
+    "main.js.map": "/Transformers/static/js/main.2cfd0cb7.chunk.js.map",
+    "runtime-main.js": "/Transformers/static/js/runtime-main.eb6dd552.js",
+    "runtime-main.js.map": "/Transformers/static/js/runtime-main.eb6dd552.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Transformers/static/css/2.fe359a49.chunk.css",
+    "static/js/2.ebbc5a42.chunk.js": "/Transformers/static/js/2.ebbc5a42.chunk.js",
+    "static/js/2.ebbc5a42.chunk.js.map": "/Transformers/static/js/2.ebbc5a42.chunk.js.map",
+    "index.html": "/Transformers/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Transformers/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.bb0130d4.chunk.css.map": "/Transformers/static/css/main.bb0130d4.chunk.css.map",
+    "static/js/2.ebbc5a42.chunk.js.LICENSE.txt": "/Transformers/static/js/2.ebbc5a42.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Transformers/static/media/SuperMario256.4f725b59.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb6dd552.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.ebbc5a42.chunk.js",
+    "static/css/main.bb0130d4.chunk.css",
+    "static/js/main.2cfd0cb7.chunk.js"
+  ]
+}
