@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Super Mario 256 Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Super Mario 256 Regular'), url('SuperMario256.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Super Mario 256 Regular';
+    font-weight: 200;
+    color: #0ccac4;
+}
