@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# React Web App User Interface
+
+![React App - Google Chrome 2021-10-01 09-22-04](https://user-images.githubusercontent.com/46882542/135562895-27b1ff3d-0f09-417d-ac55-c91022ec59c5.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
